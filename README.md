@@ -18,7 +18,7 @@ It is simple like this:
 
 Then:
 
-`kview()`
+`results <- kview()`
 
 Pickup the one of the structure results files ("your_run_f") or a zip file containing the structure outputs.
 
