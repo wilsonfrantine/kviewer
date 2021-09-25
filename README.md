@@ -20,10 +20,11 @@ Then:
 
 `results <- kview()`
 
-Pickup the one of the structure results files ("your_run_f") or a zip file containing the structure outputs.
+Pickup the one of the structure results files ("your_run_f").
 
-you may also provide pop names for plotting:
+If you wanna provide pop names for plotting:
 
 `kview(pop_names=c("mypop1", "Pop from 2", "and so on..."))`
 
-Enjoy
+Any crash reports here or for wilsofrantine@gmail.com
+Feel free to implement the code in your scripts.
