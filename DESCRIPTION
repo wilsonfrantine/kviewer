@@ -1,0 +1,13 @@
+Package: kviewer
+Type: Package
+Title: K-viewer: an R package for analyse and plot Structure outputs
+Version: 0.1.0
+Author: Wilson Frantine-Silva
+Maintainer: Wilson Frantine-Silva <wilsonfrantine@gmail.com>
+Description: Package was designed to calculate structure best-k estimators
+    and plot some graphs.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Imports: ggplot2, cowplot, fpc, utils
