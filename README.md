@@ -9,7 +9,7 @@ At the moment we can calculate the estimators from Evanno methods (Evanno et al.
 ### Installing
 You must first install the package with the following command:
 
-`devtools::install_github("wilsonfrantine/kviewer")`
+`remotes::install_github("wilsonfrantine/kviewer")`
 
 ### Running
 It is simple like this:
