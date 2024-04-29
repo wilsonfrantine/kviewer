@@ -25,5 +25,11 @@ If you wanna provide pop names for plotting:
 
 `kview(pop_names=c("mypop1", "Pop from 2", "and so on..."))`
 
+### Help
+
+for more details, use:
+
+`?kview`
+
 Any crash reports here or for wilsofrantine@gmail.com
 Feel free to implement the code in your scripts.
