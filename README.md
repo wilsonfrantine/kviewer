@@ -7,20 +7,19 @@ At the moment we can calculate the estimators from Evanno methods (Evanno et al.
 ## How to use the package
 
 ### Installing
-You must first install the package with the following command:
 
 `remotes::install_github("wilsonfrantine/kviewer")`
 
 ### Running
-It is simple like this:
+Load the library:
 
 `library("kviewer")`
 
-Then:
+Then run:
 
 `results <- kview()`
 
-Pickup the one of the structure results files ("your_run_f").
+Select one of the structure results files ("your_run_f").
 
 If you wanna provide pop names for plotting:
 
