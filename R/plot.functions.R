@@ -11,7 +11,7 @@ plotq <- function(m=NULL, plot_colors=NULL, pop_names=NULL) {
     m <- qmatrix.reshape(qmatrix())
   }
   if(is.null(plot_colors)){
-    plot_colors <- c( `mblue` = "#4573b3", `mred` = "#d72e26", `mwhite`         = "#eee8c2", `myellow` = "#faa166", `mgreen` = "#00b159", `mvermillion` = "#d11141", `mpurple` = "#CC79A7", `mblack` = "#000000", `mgrey50` = "#CCCCCC")
+    plot_colors <- c( `mblue` = "#4573b3", `mred` = "#d72e26", `mwhite`         = "#eee8c2", `myellow` = "#faa166", `mgreen` = "#00b159", `mvermillion` = "#d11141", `mpurple` = "#CC79A7", `mblack` = "#000000", `mgrey50` = "#CCCCCC", `extra` = "#CCBB22")
   }
   if(!is.null(pop_names)){
     m$pop <- as.factor(m$pop)
